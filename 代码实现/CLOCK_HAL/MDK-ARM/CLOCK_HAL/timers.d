@@ -1,0 +1,15 @@
+clock_hal\timers.o: ..\FreeRTOS\source\timers.c
+clock_hal\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+clock_hal\timers.o: ../FreeRTOS/include/FreeRTOS.h
+clock_hal\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+clock_hal\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+clock_hal\timers.o: ../FreeRTOS/FreeRTOSConfig.h
+clock_hal\timers.o: ../FreeRTOS/include/projdefs.h
+clock_hal\timers.o: ../FreeRTOS/include/portable.h
+clock_hal\timers.o: ../FreeRTOS/include/deprecated_definitions.h
+clock_hal\timers.o: ../FreeRTOS/portable/portmacro.h
+clock_hal\timers.o: ../FreeRTOS/include/mpu_wrappers.h
+clock_hal\timers.o: ../FreeRTOS/include/task.h
+clock_hal\timers.o: ../FreeRTOS/include/list.h
+clock_hal\timers.o: ../FreeRTOS/include/queue.h
+clock_hal\timers.o: ../FreeRTOS/include/timers.h

@@ -1,0 +1,14 @@
+clock_hal\heap_4.o: ..\FreeRTOS\portable\heap_4.c
+clock_hal\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+clock_hal\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+clock_hal\heap_4.o: ../FreeRTOS/include/FreeRTOS.h
+clock_hal\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+clock_hal\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+clock_hal\heap_4.o: ../FreeRTOS/FreeRTOSConfig.h
+clock_hal\heap_4.o: ../FreeRTOS/include/projdefs.h
+clock_hal\heap_4.o: ../FreeRTOS/include/portable.h
+clock_hal\heap_4.o: ../FreeRTOS/include/deprecated_definitions.h
+clock_hal\heap_4.o: ../FreeRTOS/portable/portmacro.h
+clock_hal\heap_4.o: ../FreeRTOS/include/mpu_wrappers.h
+clock_hal\heap_4.o: ../FreeRTOS/include/task.h
+clock_hal\heap_4.o: ../FreeRTOS/include/list.h

@@ -1,0 +1,12 @@
+clock_hal\list.o: ..\FreeRTOS\source\list.c
+clock_hal\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+clock_hal\list.o: ../FreeRTOS/include/FreeRTOS.h
+clock_hal\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+clock_hal\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+clock_hal\list.o: ../FreeRTOS/FreeRTOSConfig.h
+clock_hal\list.o: ../FreeRTOS/include/projdefs.h
+clock_hal\list.o: ../FreeRTOS/include/portable.h
+clock_hal\list.o: ../FreeRTOS/include/deprecated_definitions.h
+clock_hal\list.o: ../FreeRTOS/portable/portmacro.h
+clock_hal\list.o: ../FreeRTOS/include/mpu_wrappers.h
+clock_hal\list.o: ../FreeRTOS/include/list.h
